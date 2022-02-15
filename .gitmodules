@@ -1,0 +1,3 @@
+[submodule "dbt-training-bytecode"]
+	path = dbt-training-bytecode
+	url = https://github.com/bytecodeio/dbt-training-bytecode.git
